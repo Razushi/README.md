@@ -25,29 +25,7 @@ let
 in
 player
 ```
-<div align="center">
-
-  ## Activities:
-
-</div>
-
-```nix
-let
-  contributions = [
-    "nixpkgs"
-    "Flathub"
-  ];
-in
-builtins.trace "Currently contributing to: ${builtins.toString contributions}" contributions
-```
-
-```nix
-let
-  language = "Java";
-  project = "procedural generated voxel frameworks";
-in
-builtins.trace "Developing ${project} in ${language}." project
-```
+  
 <div align="center">
 
   ## Socials:
