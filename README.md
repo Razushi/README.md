@@ -1,6 +1,8 @@
+<div align="center">
+
 # Greetings, I'm Razushi.
 
-## Overview:
+</div>
 
 ```nix
 let
@@ -23,8 +25,11 @@ let
 in
 player
 ```
+<div align="center">
 
-## Activities:
+  ## Activities:
+
+</div>
 
 ```nix
 let
@@ -43,20 +48,26 @@ let
 in
 builtins.trace "Developing ${project} in ${language}." project
 ```
+<div align="center">
 
-## Socials:
+  ## Socials:
 
-You can find me at:
-- **[NixOS](https://wiki.nixos.org/wiki/User:Razushi)**
-- **[Twitter](https://twitter.com/razushi283)**
-- **[Reddit](https://www.reddit.com/user/Cultural_Yam/)**
+__You can find me at:__ </div>
 
-## Following:
+- **[NixOS](https://wiki.nixos.org/wiki/User:Razushi)**: I do some documentation work here
+- **[Twitter](https://twitter.com/razushi283)**: Don't really use it but I might. Eventually.
+- **[Reddit](https://www.reddit.com/user/Cultural_Yam/)**: You'll find me here playing games, or just general tech stuff. 
 
-I'm watching over these repos:
-- **[serpent-os/moss](https://github.com/serpent-os/moss)**
-- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)**
-- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)**
-- **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**
-- **[outfoxxed/impurity.nix](https://github.com/outfoxxed/impurity.nix)**
+<div align="center">
+  
+  ## Watchlist:
+
+__I'm watching over these repos:__ </div>
+
+- **[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)**: Neovim notetaking. 
+- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)**: "I use Nix btw."
+- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)**: Wayland compositor, pretty nice environment.
+- **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**: Infinite-scroll Wayland compositor.
+- **[serpent-os/moss](https://github.com/serpent-os/moss)**: "I use ~~Nix~~ btw."
+
 
