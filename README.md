@@ -8,10 +8,11 @@
 let
   student = {
     university = "University of Technology Sydney";
+    course = "Bachelor of Information Technology";
     year = 2024;
   };
 in
-builtins.trace "Student at ${student.university}. Class of ${toString student.year}." student
+student
 ```
 
 ```nix
