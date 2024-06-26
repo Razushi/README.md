@@ -9,7 +9,7 @@ let
   student = {
     university = "University of Technology Sydney";
     course = "Bachelor of Information Technology";
-    year = 2024;
+    end = 2025;
   };
 in
 student
