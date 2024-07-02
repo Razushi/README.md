@@ -17,14 +17,14 @@ student
 
 ```nix
 let
-  player = {
+  life = {
     level = 19;
     debuff = "University";
     faithPenalty = -5;
     vitalityPenalty = -1;
   };
 in
-player
+life
 ```
   
 <div align="center">
@@ -43,10 +43,11 @@ __You can find me at:__ </div>
 
 __I'm watching over these repos:__ </div>
 
-- **[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)**: Neovim notetaking. 
+- **[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)**: Notes in Neovim
 - **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)**: "I use Nix btw."
-- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)**: Wayland compositor, pretty nice environment.
-- **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**: Infinite-scroll Wayland compositor.
 - **[serpent-os/moss](https://github.com/serpent-os/moss)**: "I use ~~Nix~~ btw."
+- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)**: Wayland compositor, pretty nice environment.
+- **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**: Wayland compositor, Infinite-scroll.
+- **[ggerganov/whisper.cpp ](https://github.com/ggerganov/whisper.cpp)**: Let the sleepers, sleep.
 
 
