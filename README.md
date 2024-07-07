@@ -58,9 +58,13 @@ __You can find me at:__
   
 </div>
 
-- **[NixOS](https://wiki.nixos.org/wiki/User:Razushi)**: I do some documentation work here
-- **[Twitter](https://twitter.com/razushi283)**: Don't really use it but I might. Eventually.
-- **[Reddit](https://www.reddit.com/user/Cultural_Yam/)**: You'll find me here playing games, or just general tech stuff. 
+<div align="center">
+  
+  <a href="https://wiki.nixos.org/wiki/User:Razushi"><img src="https://img.shields.io/badge/Wiki-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
+  <a href="https://twitter.com/razushi283"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/Cultural_Yam/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
+
+</div>
 
 <div align="center">
   
@@ -70,21 +74,14 @@ __I'm watching over these repos:__
 
 </div>
 
-- **[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)**: Notes in Neovim
-- **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)**: "I use Nix btw."
-- **[serpent-os/moss](https://github.com/serpent-os/moss)**: "I use ~~Nix~~ btw."
-- **[hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)**: Wayland compositor, pretty nice environment.
-- **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**: Wayland compositor, Infinite-scroll.
-- **[ggerganov/whisper.cpp ](https://github.com/ggerganov/whisper.cpp)**: Let the sleepers, sleep.
-
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvim-neorg&repo=neorg)](https://github.com/nvim-neorg/neorg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NixOS&repo=nixpkgs)](https://github.com/NixOS/nixpkgs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpent-os&repo=moss)](https://github.com/serpent-os/moss)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyprwm&repo=Hyprland)](https://github.com/hyprwm/Hyprland)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaLTeR&repo=niri)](https://github.com/YaLTeR/niri)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NixOS&repo=nixpkgs)](https://github.com/NixOS/nixpkgs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggerganov&repo=whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaLTeR&repo=niri)](https://github.com/YaLTeR/niri)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpent-os&repo=moss)](https://github.com/serpent-os/moss)
 
 </div>
 
