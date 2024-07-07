@@ -45,17 +45,13 @@ life
 </p>
 
 <div align="center">
-
+  
 ## Find Me: 
   <a href="https://wiki.nixos.org/wiki/User:Razushi"><img src="https://img.shields.io/badge/Wiki-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
   <a href="https://twitter.com/razushi283"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/Cultural_Yam/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 </div>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=razushi&theme=catppuccin_mocha&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" />
-</p>
 
 <div align="center">
   
