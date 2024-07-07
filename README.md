@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Greetings, I'm Razushi.
 
 </div>
@@ -21,10 +21,10 @@
 
   
 <div align="center">
+  
+## Stats:
 
 </div>
-
-## Stats:
 
 ```nix
 let
@@ -52,7 +52,7 @@ life
 
 <div align="center">
 
-  ## Socials: 
+## Socials: 
   
 __You can find me at:__ 
   
@@ -64,7 +64,7 @@ __You can find me at:__
 
 <div align="center">
   
-  ## Watchlist:
+## Watchlist:
 
 __I'm watching over these repos:__ 
 
@@ -81,8 +81,8 @@ __I'm watching over these repos:__
 <div align="center">
   
   ## Support Me:
-  <img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <img src="https://img.shields.io/badge/alipay-003c8b?style=for-the-badge&logo=alipay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ko--fi-0AA8DE?style=for-the-badge&logo=ko-fi&logoColor=white" />
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 
