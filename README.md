@@ -3,27 +3,9 @@
 # Greetings, I'm Razushi.
 
 </div>
-
-<p align="center">
-  <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
-  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-43B8CF.svg?&style=for-the-badge&logo=Hyprland&logoColor=white" /></a>
-  <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://matrix.org/"><img src="https://img.shields.io/badge/Matrix-222222.svg?&style=for-the-badge&logo=matrix&logoColor=white" /></a>
-  <a href="https://www.blackmagicdesign.com/au/products/davinciresolve"><img src="https://img.shields.io/badge/Davinci-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white" /></a>  
-  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white" /></a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=razushi&theme=catppuccin_mocha&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" /></p>
-
   
 <div align="center">
   
-## Stats:
-
 </div>
 
 ```nix
@@ -50,40 +32,30 @@ in
 life
 ```
 
+<p align="center">
+  <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
+  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-43B8CF.svg?&style=for-the-badge&logo=Hyprland&logoColor=white" /></a>
+  <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://matrix.org/"><img src="https://img.shields.io/badge/Matrix-222222.svg?&style=for-the-badge&logo=matrix&logoColor=white" /></a>
+  <a href="https://www.blackmagicdesign.com/au/products/davinciresolve"><img src="https://img.shields.io/badge/Davinci-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white" /></a>  
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white" /></a>
+</p>
+
 <div align="center">
 
-## Socials: 
-  
-__You can find me at:__ 
-  
-</div>
-
-<div align="center">
-  
+## Find Me: 
   <a href="https://wiki.nixos.org/wiki/User:Razushi"><img src="https://img.shields.io/badge/Wiki-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
   <a href="https://twitter.com/razushi283"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/Cultural_Yam/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 </div>
 
-<div align="center">
-  
-## Watchlist:
-
-__I'm watching over these repos:__ 
-
-</div>
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvim-neorg&repo=neorg)](https://github.com/nvim-neorg/neorg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyprwm&repo=Hyprland)](https://github.com/hyprwm/Hyprland)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NixOS&repo=nixpkgs)](https://github.com/NixOS/nixpkgs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggerganov&repo=whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaLTeR&repo=niri)](https://github.com/YaLTeR/niri)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpent-os&repo=moss)](https://github.com/serpent-os/moss)
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=razushi&theme=catppuccin_mocha&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" />
+</p>
 
 <div align="center">
   
