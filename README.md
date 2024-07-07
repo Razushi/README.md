@@ -35,18 +35,19 @@ life
 
 <p align="center">
   <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
-  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?&style=for-the-badge&logo=Hyprland&logoColor=black" /></a>
-  <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-                              
+  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-43B8CF.svg?&style=for-the-badge&logo=Hyprland&logoColor=white" /></a>
+  <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://matrix.org/"><img src="https://img.shields.io/badge/Matrix-222222.svg?&style=for-the-badge&logo=matrix&logoColor=white" /></a>
+  <a href="https://proton.me"><img src="https://img.shields.io/badge/Proton-6D4AFF.svg?&style=for-the-badge&logo=proton&logoColor=white" /></a>
+  <a href="https://www.blackmagicdesign.com/au/products/davinciresolve"><img src="https://img.shields.io/badge/Davinci-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white" /></a>  
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white" /></a>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=razushi&theme=catppuccin_mocha&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" /></p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razushi&theme=catppuccin_mocha&hide_title=true&langs_count=8" /></p>
-</p>
-
 
   
 <div align="center">
