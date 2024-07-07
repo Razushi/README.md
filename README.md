@@ -26,12 +26,38 @@ let
 in
 life
 ```
+
+<div align="center">
+  
+  ## Loadout:
+
+</div>
+
+<p align="center">
+  <a href="https://nixos.org"><img src="https://img.shields.io/badge/NixOS-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
+  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-58E1FF.svg?&style=for-the-badge&logo=Hyprland&logoColor=black" /></a>
+  <a href="https://neovim.io"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+                              
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=razushi&theme=catppuccin_mocha&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" /></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razushi&theme=catppuccin_mocha&hide_title=true&langs_count=8" /></p>
+</p>
+
+
   
 <div align="center">
 
-  ## Socials:
+  ## Socials: 
+  
+__You can find me at:__ 
+  
+</div>
 
-__You can find me at:__ </div>
+
 
 - **[NixOS](https://wiki.nixos.org/wiki/User:Razushi)**: I do some documentation work here
 - **[Twitter](https://twitter.com/razushi283)**: Don't really use it but I might. Eventually.
@@ -41,7 +67,9 @@ __You can find me at:__ </div>
   
   ## Watchlist:
 
-__I'm watching over these repos:__ </div>
+__I'm watching over these repos:__ 
+
+</div>
 
 - **[nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)**: Notes in Neovim
 - **[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)**: "I use Nix btw."
@@ -51,3 +79,12 @@ __I'm watching over these repos:__ </div>
 - **[ggerganov/whisper.cpp ](https://github.com/ggerganov/whisper.cpp)**: Let the sleepers, sleep.
 
 
+<div align="center">
+  
+  ## Support Me:
+  <img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+
+</div>
