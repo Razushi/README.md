@@ -77,6 +77,16 @@ __I'm watching over these repos:__
 - **[YaLTeR/nirl](https://github.com/YaLTeR/niri)**: Wayland compositor, Infinite-scroll.
 - **[ggerganov/whisper.cpp ](https://github.com/ggerganov/whisper.cpp)**: Let the sleepers, sleep.
 
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nvim-neorg&repo=neorg)](https://github.com/nvim-neorg/neorg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NixOS&repo=nixpkgs)](https://github.com/NixOS/nixpkgs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpent-os&repo=moss)](https://github.com/serpent-os/moss)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyprwm&repo=Hyprland)](https://github.com/hyprwm/Hyprland)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaLTeR&repo=niri)](https://github.com/YaLTeR/niri)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ggerganov&repo=whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
+
+</div>
 
 <div align="center">
   
