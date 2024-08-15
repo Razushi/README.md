@@ -22,7 +22,7 @@ student
 ```nix
 let
   life = {
-    level = 19;
+    level = 20;
     class = "Student";
     debuff = "University";
     faithPenalty = -5;
