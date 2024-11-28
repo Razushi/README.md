@@ -39,7 +39,6 @@ life
 </p>
 
 <p align="center">
-  <a href="https://matrix.org/"><img src="https://img.shields.io/badge/Matrix-222222.svg?&style=for-the-badge&logo=matrix&logoColor=white" /></a>
   <a href="https://www.blackmagicdesign.com/au/products/davinciresolve"><img src="https://img.shields.io/badge/Davinci-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white" /></a>  
   <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white" /></a>
 </p>
@@ -47,6 +46,7 @@ life
 <div align="center">
   
 ## Find Me: 
+  <a href="https://matrix.org/"><img src="https://img.shields.io/badge/Matrix-222222.svg?&style=for-the-badge&logo=matrix&logoColor=white" /></a>
   <a href="https://wiki.nixos.org/wiki/User:Razushi"><img src="https://img.shields.io/badge/Wiki-5277C3.svg?&style=for-the-badge&logo=nixos&logoColor=white" /></a>
   <a href="https://twitter.com/razushi283"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/Cultural_Yam/"><img src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
